@@ -1,6 +1,6 @@
 # Hello, I am Pidjan.
 
-My main profession is coding.
+* My main profession is coding.
 
 I've been programming for 5 years now (some of the languages I know are: C++, Python, NodeJS) and I love it.
 
