@@ -1,2 +1,1 @@
-# Hi!
-My main profession is coding.
+i code and reverse closed-source things
